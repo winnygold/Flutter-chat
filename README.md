@@ -1,11 +1,12 @@
 # Flutter Chat 💬
 
-## Goal : 
+## Goal 🏆: 
 
-The Goal was to build a chat by using all the flutter basics that i learned for a week. I used FireBase Auth , Firebase NoSQL for the DB. 
+#### The Goal was to build a chat by using all the flutter basics that i learned for a week. 
+#### I used FireBase Auth , Firebase NoSQL for the DB. 
 --------------------------------------------
 
-## What i Learned doing this project : 
+### Learnings from this project : 
 
 - How to work with other external library (eg:animated_text_kit)
 - How to work with a REST API in Flutter 
