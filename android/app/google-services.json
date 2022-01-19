@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773737287451",
+    "project_id": "chatting-app-98e6f",
+    "storage_bucket": "chatting-app-98e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773737287451:android:f853e3acf28a3b52458dbe",
+        "android_client_info": {
+          "package_name": "co.pravin.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773737287451-2samd1vd21sgcqe1huq4pt388m8diga0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwc3I2FRc9rJ4cm_G6p2PNmkg1k_XMDyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773737287451-2samd1vd21sgcqe1huq4pt388m8diga0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
